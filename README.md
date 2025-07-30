@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SouravMitra98
-- 👀 I’m interested in ... Mechine Learning , AI
-- 🌱 I’m currently learning ... Python and Mechine Learning 
+- 👀 I’m interested in ... Flutter, Dart, Python, Html, Css, Js
+- 🌱 I’m currently learning ... Node Js
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... souravmitra93@gmail.com
 
