@@ -1,10 +1,41 @@
-- 👋 Hi, I’m @SouravMitra98
-- 👀 I’m interested in ... Flutter, Dart, Python, Html, Css, Js
-- 🌱 I’m currently learning ... Node Js
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... souravmitra93@gmail.com
+# 👋 Hi, I'm Sourav Mitra  
 
-<!---
-SouravMitra98/SouravMitra98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Full-Stack Developer | Flutter & React Enthusiast | MCA Graduate (2022)**  
+Passionate about building modern applications that blend clean UI with powerful backend systems.  
+I enjoy solving problems, exploring new technologies, and turning ideas into impactful projects.  
+
+---
+
+## 🚀 About Me
+- 🎯 Skilled in **Flutter, Dart, React.js, JavaScript, Python, SQL**  
+- 📱 Currently trying to build a **WhatsApp Clone** with Flutter  
+- 🌱 Learning **Node.js** and diving deeper into **backend development**  
+- 💡 Open to collaborating on open-source & innovative projects  
+- 🌍 Looking for **developer opportunities in India & abroad**  
+
+---
+
+## 🛠️ Tech Stack  
+**Frontend:** Flutter • React.js • HTML • CSS • JavaScript  
+**Backend:** Node.js (Learning) • Python • SQL Server  
+**Other:** Git • GitHub • REST APIs • Cloud (basic)  
+
+---
+
+## 📌 Featured Projects  
+- 🎶 **Spotify Clone** – Music streaming app with Flutter & Firebase  
+- 🌦️ **Weather App** – Built with Flutter & JavaScript  
+- 📊 **Portfolio Website** – Coming soon in React.js  
+
+*(Check pinned repos below 👇)*  
+
+---
+
+## 📫 Connect with Me  
+- 💼 www.linkedin.com/in/sourav-mitra-177957185
+- 🌐 Portfolio (Coming soon)  
+- 📧 Email: souravmitra93@gmail.com
+
+---
+
+⭐️ *“Code • Learn • Build • Repeat”*
