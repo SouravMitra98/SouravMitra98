@@ -8,7 +8,6 @@ I enjoy solving problems, exploring new technologies, and turning ideas into imp
 
 ## 🚀 About Me
 - 🎯 Skilled in **Flutter, Dart, React.js, JavaScript, Python, SQL**  
-- 📱 Currently trying to build a **WhatsApp Clone** with Flutter  
 - 🌱 Learning **Node.js** and diving deeper into **backend development**  
 - 💡 Open to collaborating on open-source & innovative projects  
 - 🌍 Looking for **developer opportunities in India & abroad**  
@@ -18,12 +17,13 @@ I enjoy solving problems, exploring new technologies, and turning ideas into imp
 ## 🛠️ Tech Stack  
 **Frontend:** Flutter • React.js • HTML • CSS • JavaScript  
 **Backend:** Node.js (Learning) • Python • SQL Server  
-**Other:** Git • GitHub • REST APIs • Cloud (basic)  
+**Other:** Git • GitHub • FAST APIs • Cloud (basic)  
 
 ---
 
 ## 📌 Featured Projects  
-- 🎶 **Spotify Clone** – Music streaming app with Flutter & Firebase  
+- 🎶 **Spotify Clone** – Music streaming app with Flutter , Dart, Fastapi, Python, Postgresql
+- 🛒 **Amazon Clone** - Shopping app clone like Amazon with Flutter , Dart, Node Js, Mongo DB
 - 🌦️ **Weather App** – Built with Flutter & JavaScript  
 - 📊 **Portfolio Website** – Coming soon in React.js  
 
